@@ -59,7 +59,6 @@ I have authored or co-authored publications in major conferences and arXiv prepr
 - **Machine Learning** - Deep learning, representation learning
 - **Vision-Language Models** - Chart understanding, perception bottleneck, hallucination
 - **LLM Truthfulness & Interpretability** - Truthfulness hyperplane, inner representations
-- **Programming** - Python, PyTorch, JAX
 
 ## Contact
 
