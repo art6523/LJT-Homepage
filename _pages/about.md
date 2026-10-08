@@ -32,17 +32,14 @@ I have authored or co-authored publications in major conferences and arXiv prepr
 
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** - 2025, arXiv
   - Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
-  - Code: Vision4Chart
   - Code repository: Vision4Chart
 
 - **On the Perception Bottleneck of VLMs for Chart Understanding** - 2025, arXiv
   - Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
-  - Code: Vision4Chart
   - Code repository: Vision4Chart
 
 - **On the Universal Truthfulness Hyperplane Inside LLMs** - 2024, EMNLP 2024
   - Co-authors: Shiqi Chen, Yu Cheng, Junxian He
-  - Code: Universal_Truthfulness_Hyperplane
   - Code repository: Universal_Truthfulness_Hyperplane
 
 ### Co-authored papers
